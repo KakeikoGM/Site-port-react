@@ -12,7 +12,7 @@ import adaga from './static/adaga-thorfinn-1.png'
 import zap from './static/zap.png'
 import insta from './static/insta.png'
 import skull from './static/skull-knight.svg'
-import aspas from './static/“.svg'
+import aspas from './static/aspas.svg'
 
 function App() {
   return (
